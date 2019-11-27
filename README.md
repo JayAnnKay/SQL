@@ -1,6 +1,8 @@
 # SQL
-1.jpg file consists of the 'mutual fund transaction' table and 'customer detail' table.
-2.jpg file consists of the problem statements.
+1.jpg file consists of the 'mutual fund transaction' table and 'customer detail' table (schema set).
+
+PROBLEM
+Write executable SQL queries to answer the following questions:
 
 1. Find the customer with the highest transaction value as of today.
 Consider :
